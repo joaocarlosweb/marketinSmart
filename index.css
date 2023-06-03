@@ -219,6 +219,11 @@ header{
         margin-bottom: 50px;
         width: 95%;
     }
+    .section-cards h2{
+        font-size: 20px;
+        width: 80%;
+        margin: auto;
+    }
     .area-titlle h3{
         font-weight: 300;
         margin: auto;
@@ -253,7 +258,7 @@ header{
     .img1pag{
         display: block;
         margin: auto;
-        margin-top: 20px;
+        margin-top: 66px;
     }
     .cards{
         display:flex;
@@ -271,6 +276,13 @@ header{
         margin-top: 20px;
         width: 95%;
     }
+    .section-4 H3 {
+        font-size: 26px;
+        width: 80%;
+        margin: auto;
+        margin-top: 20px;
+        margin-bottom: 57px;
+    }
     .img2seçao{
         display: flex;
         justify-content: center;
@@ -278,7 +290,7 @@ header{
         width: 320px;
         height:auto;
         margin-top: 40px; 
-        margin-left: 20px;
+        margin-left: 44px;
         text-align: center;
     }
     .form input{
@@ -311,10 +323,11 @@ header{
         display: flex;
         justify-content: center;
         flex-direction: column;
-        width: 320px;
+        width: 288px;
         height:auto;
         margin-top: 40px; 
-        margin-left: 20px;
+        margin-left: 56px;
+        margin-bottom: 20px;
         text-align: center;
     }
     .form input{
