@@ -147,7 +147,7 @@ header{
 }
 .section-4 H3{
     text-align: center;
-    font-size: 28px;
+    font-size: 21px;
     margin:40px 0px;
 }
 .form{
@@ -290,7 +290,7 @@ header{
 }
 @media(max-width:465px){
     .container{
-        font-size: 20px;
+        font-size: 16px;
         width:100%;
         margin: auto;
         text-align: center;
@@ -321,9 +321,13 @@ header{
         width:100%;
         margin: auto;
     }
+    .section-cards h2{
+        font-size: 19px;
+    }
     .logo h2{
         width: 100%;
         margin: auto;
+        font-size: 27px;
     }
     .img-1{
         width:320px;
@@ -335,10 +339,10 @@ header{
         display: flex;
         justify-content: center;
         flex-direction: column;
-        width: 300px;
+        width: 246px;
         height:auto;
         margin-top: 40px; 
-        margin-left: 40px;
+        margin-left: 80px;
         text-align: center;
     }
     .section-3 h2{
