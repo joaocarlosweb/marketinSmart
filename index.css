@@ -225,7 +225,7 @@ header{
         text-align: center;
     }
     .area-titlle h2{
-        font-size: 32px;
+        font-size: 26px;
         margin: auto;
         text-align: center;
     }
@@ -295,6 +295,12 @@ header{
         margin: auto;
         text-align: center;
     }
+    .section-cards h2{
+        font-size: 20px;
+        width: 80%;
+        margin: auto;
+        margin-top: 15px;
+    }
     .img-1{
         width:320px;
         height: 300px;
@@ -321,8 +327,28 @@ header{
         width:100%;
         margin: auto;
     }
+    .img1pag {
+        width: 280px;
+        height: auto;
+        text-align: center;
+        justify-content: center;
+        flex-direction: column;
+        display: flex;
+        margin-top: 52px;
+        margin-bottom: 44px;
+    }
+    .section-4 h3{
+        font-size: 19px;
+        width: 80%;
+        margin: auto;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
     .section-cards h2{
         font-size: 19px;
+        width: 80%;
+        margin: auto;
+        margin-top: 20px;
     }
     .logo h2{
         width: 100%;
@@ -339,11 +365,12 @@ header{
         display: flex;
         justify-content: center;
         flex-direction: column;
-        width: 246px;
+        width: 208px;
         height:auto;
         margin-top: 40px; 
-        margin-left: 80px;
+        margin-left: 97px;
         text-align: center;
+        margin-bottom: 30px;
     }
     .section-3 h2{
         width: 100%;
